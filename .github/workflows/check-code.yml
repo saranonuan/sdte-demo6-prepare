@@ -3,7 +3,7 @@ name: Check code when push
 on:
   push:
     branches:
-      - '*'
+      - "*"
 
 jobs:
   check-code:
